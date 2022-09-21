@@ -1,0 +1,14 @@
+.footer{
+    text-align: center;
+    margin-top: 2rem;
+}
+
+p{
+    color: rgb(141, 143, 143);
+    font-size: 14px;
+}
+
+strong{
+    color: rgb(118, 187, 240);
+    font-size: 15px;
+}
